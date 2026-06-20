@@ -10,12 +10,12 @@ Investigation
 
 To answer this question, I explored:
 
-Which industries generate the most billionaire wealth?
-Are most billionaires self-made or inherited wealth?
-Which countries produce the highest number of billionaires?
-Is there a relationship between GDP and billionaire concentration?
-What age group dominates billionaire rankings?
-Does gender diversity exist among billionaires?
+* Which industries generate the most billionaire wealth?
+* Are most billionaires self-made or inherited wealth?
+* Which countries produce the highest number of billionaires?
+* Is there a relationship between GDP and billionaire concentration?
+* What age group dominates billionaire rankings?
+* Does gender diversity exist among billionaires?
 
 Key Findings
 
