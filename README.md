@@ -16,7 +16,9 @@ Which countries produce the highest number of billionaires?
 Is there a relationship between GDP and billionaire concentration?
 What age group dominates billionaire rankings?
 Does gender diversity exist among billionaires?
+
 Key Findings
+
 Finding 1
 
 Technology and Finance dominate billionaire wealth creation.
